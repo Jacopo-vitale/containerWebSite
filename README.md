@@ -15,10 +15,12 @@ Unzip to a specific folder:<br>
 `$ unzip containerWebSite-main -d my/directory/path`<br>
 Enter into docker-compose folder<br>
 `$ cd docker-compose`<br>
-Launch docker-compose as daemon process:<br>
+Launch docker-compose as daemon process (-d argument):<br>
 `$ docker-compose up -d`<br>
 
-
 <p align="center">
-  <img width="300" src="https://user-images.githubusercontent.com/74437465/194286594-064a018a-31b0-4342-a6be-9051b4a2bb46.svg">
+  <img width="150" src="https://user-images.githubusercontent.com/74437465/194286594-064a018a-31b0-4342-a6be-9051b4a2bb46.svg">
 </p>
+
+Once the prompt gives you `Done` along all containers, then you can open your browser and find wordpress at:
+`http://localhost:8000`
