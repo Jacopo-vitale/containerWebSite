@@ -21,7 +21,7 @@ Launch docker-compose as daemon process (-d argument):<br>
 
 
 <p align="center">
-  <img width="150" src="https://user-images.githubusercontent.com/74437465/196418959-31d5441b-f64d-46e0-8c53-95afc18bac24.png">
+  <img width="300" src="https://user-images.githubusercontent.com/74437465/196418959-31d5441b-f64d-46e0-8c53-95afc18bac24.png">
 </p>
 
 Once the prompt gives you `Done` along all containers, then you can open your browser and find wordpress at:
