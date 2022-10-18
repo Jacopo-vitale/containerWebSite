@@ -25,3 +25,23 @@ Launch docker-compose as daemon process (-d argument):<br>
 
 Once the prompt gives you `Done` along all containers, then you can open your browser and find wordpress at:
 `http://localhost:8000`
+
+<br>
+<br>
+
+## Kubernetes and Minikube
+
+<p align="center">
+  <img width="300" align="center" src="https://user-images.githubusercontent.com/74437465/196419874-78f6af33-c503-4b8c-b081-9397cec3cde0.png">
+  <img width="120" align="center" hspace="50" src="https://user-images.githubusercontent.com/74437465/196420141-0e9134d1-1067-4097-88e6-4ab4ebe28b1d.png">
+</p>
+
+
+
+
+
+
+
+
+
+
